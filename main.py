@@ -2,7 +2,7 @@
 import time
 
 # NOT USING MOUSE
-# import mouse
+import mouse
 # mouse.move(100, 100, absolute=False, duration=0.2) - works without sudo
 # mouse wants sudo access to do things like mouse.click('left') - wants sudo which is bad
 # instead I use pytautogui.
